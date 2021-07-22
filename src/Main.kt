@@ -1,3 +1,5 @@
+import kotlin.reflect.KClass
+
 /*
 Type Casting (형변환)
  - 변수에 담긴 값이나 객체를 다른 형태로 변환하는 것을 의미합니다.
